@@ -8,4 +8,4 @@ os:
   - osx
 script: |
   cd Keen.NetStandard.Test
-  dotnet
+  dotnet test
